@@ -1,6 +1,6 @@
 # UST internship at KIST in 2019
 ## 1. The Generation of Three-photon GHZ-like state with Classical Light
-Supervised by Prof. Y. Kim at KIST 🙌
+Supervised by Principal Researcher Y. Kim at KIST 🙌
 <br><br>
 **&lt;ABSTRACT&gt;**
 <div align="justify"> 
