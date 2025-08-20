@@ -1,7 +1,7 @@
 # UST internship at KIST in 2019
 ## 1. The Generation of Three-photon GHZ-like state with Classical Light (PI: Y. KIM)
 **<ABSTRACT>**
-<div align="both"> Quantum information built upon the concept of quantum bit (or qubit) deals
+<div align="justify"> Quantum information built upon the concept of quantum bit (or qubit) deals
 with the information processing tasks based on the laws of quantum
 mechanics. Its specialty especially stands out in quantum communication (QC)
 where Quantum key distribution (QKD) protocol allows participants to
@@ -33,4 +33,4 @@ communication.</div>
 <br>
 ## 2. Boson Sampling for Harry
 **ABSTRACT**
-<div align="both">This presentation material was part of my voluntary mini-project and was prepared for other interns and students at the center—especially Harry, who showed interest in learning more about boson sampling after attending Prof. J. Huh's invited talk.</div>
+<div align="justify">This presentation material was part of my voluntary mini-project and was prepared for other interns and students at the center—especially Harry, who showed interest in learning more about boson sampling after attending Prof. J. Huh's invited talk.</div>
