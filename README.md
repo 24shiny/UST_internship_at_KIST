@@ -1,6 +1,6 @@
 # UST internship at KIST in 2019
 ## 1. The Generation of Three-photon GHZ-like state with Classical Light (PI: Y. KIM)
-**&ltABSTRACT&gt**
+**&lt;ABSTRACT&gt;**
 <div align="justify"> 
   Quantum information built upon the concept of quantum bit (or qubit) deals
 with the information processing tasks based on the laws of quantum
@@ -35,7 +35,7 @@ communication.
 <br>
 
 ## 2. Boson Sampling for Harry
-**&ltABSTRACT&gt**
+**&lt;ABSTRACT&gt;**
 <div align="justify"> This presentation material was part of my voluntary mini-project and was prepared for other interns and students at the center—
   especially Harry, who showed interests about boson sampling after attending Prof. J. Huh's invited talk.
   <br>With this, I tied to outline the boson sampling problem and some experimental approaches to deal with it.
