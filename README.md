@@ -31,6 +31,7 @@ advantages of MDI-QKD. When applied to MDI-QKD, the GHZ-like state is
 expected to be used in many kind of practical multiparty quantum
 communication.</div>
 <br>
+
 ## 2. Boson Sampling for Harry
 **ABSTRACT**
 <div align="justify">This presentation material was part of my voluntary mini-project and was prepared for other interns and students at the center—especially Harry, who showed interest in learning more about boson sampling after attending Prof. J. Huh's invited talk.</div>
