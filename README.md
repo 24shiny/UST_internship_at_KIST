@@ -36,6 +36,22 @@ communication.
 </div>
 <br>
 
+<table>
+  <tr>
+    <td><img src="intern_proj1_png1.png" width="150"/></td>
+    <td><img src="intern_proj1_png2.png" width="150"/></td>
+  </tr>
+  <tr>
+    <td><img src="intern_proj1_png3.png" width="150"/></td>
+    <td><img src="" width="150"/></td>
+  </tr>
+  <tr>
+    <td><img src="intern_proj1_png4.png" width="150"/></td>
+    <td><img src="intern_proj1_png5.png" width="150"/></td>
+  </tr>
+</table>
+<br><br>
+
 ## 2. Boson Sampling for Harry
 **&lt;ABSTRACT&gt;**
 <div align="justify"> This presentation material was part of my voluntary mini-project and was prepared for other interns and students at the center—
