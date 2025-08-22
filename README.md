@@ -36,6 +36,8 @@ communication.
 </div>
 <br>
 
+**&lt;SELECTED SLIDES&gt;**
+<br>
 <table>
   <tr>
     <td><img src="images/intern_proj1_png1.png" width="400"/></td>
@@ -63,6 +65,8 @@ communication.
 </div>
 <br>
 
+**&lt;SELECTED SLIDES&gt;**
+<br>
 <table>
   <tr>
     <td><img src="images/intern_proj2_png1.png" width="400"/></td>
