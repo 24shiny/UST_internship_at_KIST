@@ -38,7 +38,7 @@ communication.
 
 <table>
   <tr>
-    <td><img src="images/intern_proj2_png1.png" width="400"/></td>
+    <td><img src="images/intern_proj1_png1.png" width="400"/></td>
   </tr>
   <tr>
     <td><img src="images/intern_proj1_png3.png" width="400"/></td>
@@ -61,3 +61,22 @@ communication.
   especially Harry, who showed interests about boson sampling after attending Prof. J. Huh's invited talk. 
   With this, I tried to outline the boson sampling problem and some experimental approaches to deal with it.
 </div>
+<br>
+
+<table>
+  <tr>
+    <td><img src="images/intern_proj2_png1.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/intern_proj2_png2.png" width="400"/></td>
+    <td><img src="images/intern_proj2_png3.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/intern_proj2_png4.png" width="400"/></td>
+    <td><img src="images/intern_proj2_png5.png" width="400"/></td>
+  </tr>
+  <tr>
+  <td><img src="images/intern_proj2_png6.png" width="400"/></td>
+  <td><img src="images/intern_proj2_png7.png" width="400"/></td>
+  </tr>
+</table>
